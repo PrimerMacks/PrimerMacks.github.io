@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /?*
+Disallow: /css
+
+User-agent: Yandex
+Allow: /
+Disallow: /?*
+Disallow: /css
+
+Host: http://помощь-призывникам.рф
